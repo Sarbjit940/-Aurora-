@@ -4,5 +4,5 @@ let app: express.Application = express();
 
 
 app.listen(5000, () => {
-    console.log("server is started on 5000 port")
+    console.log("server is running at 5000 port")
 });
